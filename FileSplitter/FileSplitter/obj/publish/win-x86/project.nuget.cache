@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "2gOGj9sMRZfP9Hy8ML15u2pFdIy+DIKuHCHTI8PIO5TeSI9h21DlO34mGkSDQIHtlpM3Jh0CxZHBZe9yGCqyAg==",
+  "success": true,
+  "projectFilePath": "D:\\C# projects\\FileSplitter\\FileSplitter\\FileSplitter\\FileSplitter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\acwin\\.nuget\\packages\\metadataextractor\\2.8.0\\metadataextractor.2.8.0.nupkg.sha512",
+    "C:\\Users\\acwin\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "C:\\Users\\acwin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\acwin\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512",
+    "C:\\Users\\acwin\\.nuget\\packages\\xmpcore\\6.1.10.1\\xmpcore.6.1.10.1.nupkg.sha512",
+    "C:\\Users\\acwin\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.12\\microsoft.netcore.app.runtime.win-x86.6.0.12.nupkg.sha512",
+    "C:\\Users\\acwin\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.12\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.12.nupkg.sha512",
+    "C:\\Users\\acwin\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.12\\microsoft.aspnetcore.app.runtime.win-x86.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

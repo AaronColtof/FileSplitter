@@ -1,0 +1,2 @@
+D:\C# projects\FileSplitter\Builds\FileSplitter.pdb
+D:\C# projects\FileSplitter\Builds\FileSplitter.exe
